@@ -1,0 +1,4 @@
+Difference between document and window object.
+it will load inside the window.
+
+but It is the very first object that is loaded in the browser.
